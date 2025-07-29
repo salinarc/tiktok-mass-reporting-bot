@@ -10,6 +10,6 @@ developer - https://t.me/profcodes
 # tiktok ban tool
 # tiktok ban tool
 # tiktok report ban
-# tiktok reporter
+# tiktok report
 # tiktok banner
 # tiktok report ban
